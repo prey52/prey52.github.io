@@ -1,0 +1,78 @@
+@font-face {
+    font-family: showcard_gothic;
+    src: url('showg.ttf');
+}
+
+body {
+    margin: 2%;
+    background-image: url(gal/Warframe02.jpg);
+}
+
+p {
+    color: white;
+    font-family: showcard_gothic;
+    text-transform: uppercase;
+}
+
+.textlogo {
+    color: white;
+    font-family: showcard_gothic;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 40px;
+}
+
+
+a:hover {
+    color: red;
+}
+
+a {
+    color: white;
+    font-family: showcard_gothic;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+footer {
+
+}
+
+ul {
+    color: red;
+    list-style-type: hangul;
+}
+
+li:first-letter {
+    color: red;
+}
+
+form{
+    color: white;
+    font-family: showcard_gothic;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.right {
+    text-align: right;
+    width: 20%
+}
+
+.left {
+    text-align: left;
+    width: 20%
+}
+
+
+.content {
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 60%
+}

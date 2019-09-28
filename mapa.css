@@ -1,0 +1,37 @@
+@import "main.css";
+td {
+    width: 20px;
+    height: 20px;
+}
+
+.map {
+    background-color: black;
+}
+
+.zaj {
+    background-color: darkred;
+}
+
+.wol {
+    background-color: limegreen;
+}
+
+.rez {
+    background-color: yellow;
+}
+
+.mur
+{
+    background-color: grey;
+}
+
+.cords {
+    font-size: 0px;
+}
+
+.none {
+    color: white;
+    font-family: showcard_gothic;
+    text-transform: uppercase;
+    width: auto;
+}
